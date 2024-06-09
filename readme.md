@@ -1,4 +1,4 @@
-Hi dear,
+Hi, nice to see you here.
 
 EN: I developed this project to put into practice the content learned in my programming bootcamp. Using only HTML and CSS, I created a template for a fictional hotel website.
 
